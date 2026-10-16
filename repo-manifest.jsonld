@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-fuzzy/scikit-fuzzy/commit/be7e344f3ce65845e39922aa5fc1af7412d01944",
       "git:hexsha": "be7e344f3ce65845e39922aa5fc1af7412d01944",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-fuzzy/scikit-fuzzy/commit/b267ed0b3cf0dd85d349accac8e71294400e31ad",
