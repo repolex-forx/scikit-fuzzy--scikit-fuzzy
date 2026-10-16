@@ -1,0 +1,11 @@
+{
+  "org": "scikit-fuzzy",
+  "repo": "scikit-fuzzy",
+  "versions": [
+    {
+      "commit": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:34:18.936982+00:00"
+    }
+  ]
+}
